@@ -1,2 +1,9 @@
-# frontend-devnotes
-Everything I’ve learned so far in front-end development — including study notes, code, and projects.
+# DEVELOPER LOG
+
+
+## Dev logs
+
+### 2025-05-12
+
+- Learn about HTMLand how to use github
+

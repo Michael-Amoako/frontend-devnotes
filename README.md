@@ -5,5 +5,5 @@
 
 ### 2025-05-12
 
-- Learn about HTMLand how to use github
+- Learned HTMLand how to use github
 

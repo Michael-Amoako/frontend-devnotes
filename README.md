@@ -7,6 +7,6 @@
 
 - Learned HTML and CSS
 
-### 2025-05-12
+### 2025-05-14
 
-- Leanred more about CSS and git + githubg
+- Learned more about CSS and git + github
